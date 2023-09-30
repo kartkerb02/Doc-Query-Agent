@@ -1,0 +1,5 @@
+!pip install -q langchain
+!pip install -q replicate
+!pip install -q chromadb
+!pip install -q pypdf
+!pip install -q sentence-transformers
